@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Computer Science and Technology at BUPT.
+- 🌱 I’m currently learning backend developing.
+- 📫 How to reach me: wiggins.bupt@foxmail.com
 <!--
 **wigg1ns/wigg1ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
